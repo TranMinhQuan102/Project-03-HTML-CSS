@@ -657,3 +657,7 @@ body {
 .news-items:hover .news-items__body {
     border-color: #fff;
 }
+
+.news-items__More:hover {
+    color: #2e80ce;
+}
